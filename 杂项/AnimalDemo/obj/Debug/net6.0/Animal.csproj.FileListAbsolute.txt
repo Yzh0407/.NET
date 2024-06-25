@@ -1,0 +1,15 @@
+D:\Test\Student\bin\Debug\net6.0\Animal.exe
+D:\Test\Student\bin\Debug\net6.0\Animal.deps.json
+D:\Test\Student\bin\Debug\net6.0\Animal.runtimeconfig.json
+D:\Test\Student\bin\Debug\net6.0\Animal.dll
+D:\Test\Student\bin\Debug\net6.0\Animal.pdb
+D:\Test\Student\obj\Debug\net6.0\Animal.csproj.AssemblyReference.cache
+D:\Test\Student\obj\Debug\net6.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Student\obj\Debug\net6.0\Animal.AssemblyInfoInputs.cache
+D:\Test\Student\obj\Debug\net6.0\Animal.AssemblyInfo.cs
+D:\Test\Student\obj\Debug\net6.0\Animal.csproj.CoreCompileInputs.cache
+D:\Test\Student\obj\Debug\net6.0\Animal.dll
+D:\Test\Student\obj\Debug\net6.0\refint\Animal.dll
+D:\Test\Student\obj\Debug\net6.0\Animal.pdb
+D:\Test\Student\obj\Debug\net6.0\Animal.genruntimeconfig.cache
+D:\Test\Student\obj\Debug\net6.0\ref\Animal.dll

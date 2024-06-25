@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yzh\\source\\repos\\WebApplication13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98E2C6A3-783D-4413-9F55-97E74F77D2AD}|WebApplication13.csproj|C:\\Users\\Yzh\\source\\repos\\WebApplication13\\addmedicine.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{98E2C6A3-783D-4413-9F55-97E74F77D2AD}|WebApplication13.csproj|solutionrelative:addmedicine.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddMedicine.aspx",
+              "DocumentMoniker": "C:\\Users\\Yzh\\source\\repos\\WebApplication13\\AddMedicine.aspx",
+              "RelativeDocumentMoniker": "AddMedicine.aspx",
+              "ToolTip": "C:\\Users\\Yzh\\source\\repos\\WebApplication13\\AddMedicine.aspx",
+              "RelativeToolTip": "AddMedicine.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-20T15:18:41.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 389,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

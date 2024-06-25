@@ -1,0 +1,15 @@
+D:\C#source\Lesson\Lesson23\bin\Debug\net6.0\Lesson23.exe
+D:\C#source\Lesson\Lesson23\bin\Debug\net6.0\Lesson23.deps.json
+D:\C#source\Lesson\Lesson23\bin\Debug\net6.0\Lesson23.runtimeconfig.json
+D:\C#source\Lesson\Lesson23\bin\Debug\net6.0\Lesson23.dll
+D:\C#source\Lesson\Lesson23\bin\Debug\net6.0\Lesson23.pdb
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\Lesson23.csproj.AssemblyReference.cache
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\Lesson23.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\Lesson23.AssemblyInfoInputs.cache
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\Lesson23.AssemblyInfo.cs
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\Lesson23.csproj.CoreCompileInputs.cache
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\Lesson23.dll
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\refint\Lesson23.dll
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\Lesson23.pdb
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\Lesson23.genruntimeconfig.cache
+D:\C#source\Lesson\Lesson23\obj\Debug\net6.0\ref\Lesson23.dll

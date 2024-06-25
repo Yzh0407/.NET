@@ -1,0 +1,7 @@
+H:\Work\WindowsFormsApp2\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+H:\Work\WindowsFormsApp2\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+H:\Work\WindowsFormsApp2\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+H:\Work\WindowsFormsApp2\ConsoleApp14\obj\Debug\ConsoleApp14.csprojAssemblyReference.cache
+H:\Work\WindowsFormsApp2\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+H:\Work\WindowsFormsApp2\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+H:\Work\WindowsFormsApp2\ConsoleApp14\obj\Debug\ConsoleApp14.pdb

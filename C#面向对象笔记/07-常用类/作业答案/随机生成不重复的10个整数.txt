@@ -1,0 +1,67 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp18
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //定义数组长度为10的整型数组，存放10个随机数
+            int[] num = new int[10];
+
+            //创建随机对象
+            Random r = new Random();
+
+            //循环生成10个随机数，并保存到数组中
+            for (int i = 0; i < num.Length; i++)
+            {
+                //随机生成随机数，保存到下标为i的数组元素中
+                num[i] = r.Next(1, 11);
+
+                //调用方法Method判断num[i]是否重复，重复重新生成随机数
+                 Method(num, i);
+            }
+
+            for (int i = 0; i < num.Length; i++)
+            {
+                Console.WriteLine(num[i]);
+            }
+
+            Console.ReadKey();
+        }
+
+        /// <summary>
+        /// Method判断num[i]是否重复，重复重新生成随机数保存到数组元素num[i]中
+        /// </summary>
+        /// <param name="num">存放随机数的数组</param>
+        /// <param name="i">代表存放新生成的随机数的下标</param>
+
+        private static void Method(int[] num, int i)
+        {
+            Random r = new Random();
+            //遍历对比num[i]与前面生成的随机数是否相等，相等重新生成随机数，重新对比
+            for (int j = 0; j < i;)
+            {
+                //num[i]与前面的元素num[j]相等，重新生成
+                if (num[j] == num[i])
+                {
+                    //重新生成随机数
+                    num[i] = r.Next(1, 11);
+                    //j=0循环对比重新开始
+                    j = 0;
+                }
+                else
+                {
+                    //不相等，j++,准备与下一个元素对比
+                    j++;
+                }
+            }
+           
+
+        }
+    }
+}
